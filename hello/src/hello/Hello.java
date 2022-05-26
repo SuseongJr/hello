@@ -2,15 +2,9 @@ package hello;
 
 public class Hello {
 	
-	public static void mail(String[] args) {
+	public static void main(String[] args) {
 		
-		
-		
-	}
-
-  public static void mail(String[] args) {
-		
-		System.out.println("Hello");
+		System.out.println("Hi~");
 		
 	}
   
